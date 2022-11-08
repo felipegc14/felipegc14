@@ -8,6 +8,34 @@
 |---|---|---|---|---|---|---|---|
 
 ## ☎ Contact Me!
-
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipeg-c/)](https://www.linkedin.com/in/felipeg-c/) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:felipegc000.com)](mailto:felipegc000@gmail.com)
+
+<h1 align="center">
+✨ Where you can find me ✨
+  
+  <!-- https://img.shields.io/badge/Linkedin-Parth Patel-blue&?style=social&logo=linkedin -->
+
+  <!-- https://img.shields.io/badge/Github-Parth%20Patel-black&?style=social&logo=Github -->
+
+  <!-- https://img.shields.io/badge/Facebook-Parth%20Patel-darkblue&?style=social&logo=Facebook -->
+
+  <!-- https://img.shields.io/badge/Instagram-parth.__.27-red&?style=social&logo=Instagram -->
+
+  <!-- https://img.shields.io/badge/Twitter-Parth%20Patel-blue&?style=social&logo=Twitter -->
+
+<p align="center">
+  <br/>
+  <a href="https://www.linkedin.com/in/felipeg-c/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">
+  </a>
+  
+  <a href="https://github.com/parth-27">
+    <img src="https://img.shields.io/badge/Github-%230A0A0A.svg?&style=flat-square&logo=Github&logoColor=white">  
+  </a>
+
+  <a href="mailto:felipegc000@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white">  
+  </a>
+</p>
+</h1>
