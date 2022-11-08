@@ -1,6 +1,6 @@
-### Hi there 👋
+# Hi there! I'm Felipe 👋
 
-<img width="615" alt="banner" src="https://user-images.githubusercontent.com/84194375/200584287-03ddd04f-fc3b-42c0-96c7-ec0334bab0a8.png">
+<img width="100%" alt="banner" src="https://user-images.githubusercontent.com/84194375/200584287-03ddd04f-fc3b-42c0-96c7-ec0334bab0a8.png">
 <!--
 **felipegc14/felipegc14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
