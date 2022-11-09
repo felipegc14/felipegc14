@@ -1,6 +1,6 @@
 # Hi there! I'm Felipe 👋
 
-<img width="100%" alt="banner" src="https://user-images.githubusercontent.com/84194375/200588075-77859e19-93a2-4c28-b9c1-6885571901a8.png">
+<img width="100%" alt="banner" src="https://user-images.githubusercontent.com/84194375/200733869-64ca7ec7-4cda-48ab-a223-7023ef06c569.png">
 
 ## 💻 My Tech stack . . .
 
