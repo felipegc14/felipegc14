@@ -11,7 +11,7 @@
 ##  
 
 <h1 align="center">
-✨ Where you can find me ✨
+🍁 Where you can find me 🍁
 
 <p align="center">
   <br/>
